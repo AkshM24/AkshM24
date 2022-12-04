@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web, Application Development and Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning certified courses on C, Java, Python, Responsive Web Designing and Database Management. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: You can mail me on: akshay.manmode3956@gmail.com
+- 📫 How to reach me: You can mail me on: akshay.manmode3956@gmail.com / akshay.m1995@hotmail.com
 
 
 <!---
